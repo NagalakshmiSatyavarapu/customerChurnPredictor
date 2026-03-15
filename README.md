@@ -18,3 +18,4 @@ Predict whether a customer will churn using ML models.
 1. python src/model_training.py
 2. python src/evaluation.py
 3. streamlit run app/app.py
+"# customer-churn-predictor" 
